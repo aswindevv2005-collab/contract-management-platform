@@ -1,4 +1,4 @@
-```md
+
 # Contract Management Platform (Frontend)
 
 ## Overview
